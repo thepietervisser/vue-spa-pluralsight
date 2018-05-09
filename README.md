@@ -1,1 +1,3 @@
 Add info here...
+
+[![Build Status](https://travis-ci.org/thepietervisser/vue-spa-pluralsight.svg?branch=master)](https://travis-ci.org/thepietervisser/vue-spa-pluralsight)
